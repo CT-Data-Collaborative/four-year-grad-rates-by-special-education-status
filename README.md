@@ -1,6 +1,6 @@
 Four-Year-Grad-Rates-by-Special-Education-Status
 
-[![Build Status](https://travis-ci.org/CT-Data-Collaborative/four-year-grad-rates-by-special-eduation-status.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/four-year-grad-rates-by-special-eduation-status)
+[![Build Status](https://travis-ci.org/CT-Data-Collaborative/four-year-grad-rates-by-special-education-status.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/four-year-grad-rates-by-special-education-status)
 
 Four-Year Graduation Rate reports 'graduation' counts and rates and 'still enrolled' counts and rates for both graduates and non-graduates, per subgroup.
 
